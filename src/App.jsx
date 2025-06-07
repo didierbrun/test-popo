@@ -129,7 +129,7 @@ function App() {
           </div>
         ) : status === "success" ? (
           <h1 className="font-[Poppins] text-2xl font-light text-[#2D2D31]">
-            Congratulations!
+            Congratulations Didier!
           </h1>
         ) : (
           <h1 className="font-[Poppins] text-2xl font-light text-[#2D2D31]">
